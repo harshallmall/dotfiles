@@ -1,5 +1,5 @@
 # dotfiles
-**~ sweet ~**
+*~ sweet ~*
 
 # environment
 ---
