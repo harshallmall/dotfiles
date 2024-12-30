@@ -4,7 +4,7 @@
 ---
 # environment
 ---
-## server (1)
+## server 0
 ---
 ### hardware
 - MB: ASUS PRIME Z790-V AX
@@ -35,7 +35,7 @@
 - Process Viewer: btop
 - Text Editor: neovim (kickstart)
 ---
-## server (2) - COMING SOON
+## server 1 - COMING SOON
 ---
 ### hardware
 - CPU: 
